@@ -1,18 +1,3 @@
-https://github.com/pivoshenko/catppuccin-startpage/assets/40499728/d96c8bd6-168e-408f-b4f0-0e339569c696
-
-## Overview
-
-Aesthetic and clean startpage in [**Catppuccin Mocha**](https://catppuccin.com/palette) style, hosted on GitHub Pages. This start page is based on the [`dawn`](https://github.com/b-coimbra/dawn) and [`tartarus-startpage`](https://github.com/AllJavi/tartarus-startpage), which has even more functionality.
-I've tweaked the page's style to match [Catppuccin](https://github.com/catppuccin/catppuccin) palette and my [`dotfiles`](https://github.com/pivoshenko/dotfiles).
-
-### Main principles
-
-- Minimalism in everything
-- Consistency
-- Simplicity
-- One style
-- Reduced visual noise
-
 ## Usage
 
 1. Fork this repository and clone it
