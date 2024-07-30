@@ -1,26 +1,4 @@
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-  Catppuccin <a href="https://github.com/pivoshenko/catppuccin-startpage">Startpage</a>
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-</h3>
-
-<p align="center">
-  <a href="https://github.com/pivoshenko/catppuccin-startpage/stargazers">
-    <img src="https://img.shields.io/github/stars/pivoshenko/catppuccin-startpage?style=for-the-badge&logo=starship&color=a6e3a1&logoColor=D9E0EE&labelColor=302D41">
-  </a>
-  <a href="https://github.com/pivoshenko/catppuccin-startpage/issues">
-    <img src="https://img.shields.io/github/issues/pivoshenko/catppuccin-startpage?style=for-the-badge&logo=gitbook&color=fab387&logoColor=D9E0EE&labelColor=302D41">
-  </a>
-  <a href="https://github.com/pivoshenko/catppuccin-startpage/contributors">
-    <img src="https://img.shields.io/github/contributors/pivoshenko/catppuccin-startpage?style=for-the-badge&logo=github&color=f38ba8&logoColor=D9E0EE&labelColor=302D41">
-  </a>
-</p>
-
 https://github.com/pivoshenko/catppuccin-startpage/assets/40499728/d96c8bd6-168e-408f-b4f0-0e339569c696
-
-> [!NOTE]
->  A live demo can be found [here](https://pivoshenko.github.io/catppuccin-startpage)
 
 ## Overview
 
